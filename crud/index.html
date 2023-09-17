@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Latihan CRUD JS</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Input Form</legend>
+        <input type="text" name="barang" placeholder="input nama barang..." required/>
+        <input type="button" onclick="addBarang()" value="Tambah" />
+        <input type="button" onclick="showDatas()" value="Lihat" />
+    </fieldset>
+    <div>
+        <h3>DAFTAR BARANG</h3>
+        <ol id="list-barang"></ol>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

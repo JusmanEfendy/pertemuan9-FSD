@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pertemuan 8</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="topBar">
+            <h2>Logika Perulangan</h2>
+            <p>masukkan angka dari 1-15</p>
+        </div>
+        <form>
+            <div class="form-group">
+                <label for="input1">Kata yang mau Diulangi</label>
+                <input type="text" id="input1" name="input1" placeholder="Masukkan Kata" required>
+            </div>
+            <div class="form-group">
+                <label for="input2">Berapa kali Perulangan</label>
+                <input type="number" id="input2" name="input2" placeholder="Masukkan Angka" required>
+            </div>
+            <button type="button" id="showModalBtn">Eksekusi</button>
+        </form>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal" id="myModal">
+        <div class="modal-content">
+            <span class="close-btn" id="closeModal">&times;</span>
+            <h3>Modal Perulangan Logika</h3>
+            <p id="fillContent"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
