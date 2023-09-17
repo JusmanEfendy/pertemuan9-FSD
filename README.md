@@ -12,7 +12,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang Full-Stack Developer. 
 
 Saya juga berkontribusi pada proyek open source. Beberapa kontribusi terbaru saya adalah:
 
-- [Memahami_Github](https://github.com/JusmanEfendy): Saat ini kelas A Full-Stack Developer. Memasuki Materi Github
+- [Memahami_Github](https://github.com/JusmanEfendy/pertemuan9-FSD): Saat ini kelas A Full-Stack Developer. Memasuki Materi Github
 
 
 ## Cara Menghubungi Saya
