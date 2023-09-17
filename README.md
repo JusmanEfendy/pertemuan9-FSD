@@ -23,6 +23,6 @@ Anda dapat menghubungi saya melalui:
 - LinkedIn: [https://www.linkedin.com/in/jusman-effendy-a8777b234/]
 - Instagram: [https://www.instagram.com/jussy_ez/]
 
-## Terima kasih telah mengunjungi profil saya! 😄
+## Terima kasih telah mengunjungi repo saya! 😄
 
 Jangan ragu untuk menjelajahi proyek-proyek saya dan jangan ragu untuk menghubungi saya jika Anda ingin berbicara atau berkolaborasi.
