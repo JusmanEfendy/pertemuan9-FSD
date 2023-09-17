@@ -1,6 +1,6 @@
 # Halo, Saya [Jussman Effendy] 👋
 
-Selamat datang di profil GitHub saya! Saya adalah seorang [profesi atau minat Anda] dengan minat dalam [topik atau teknologi tertentu]. Di sini, Anda akan menemukan berbagai proyek dan kontribusi saya dalam dunia pemrograman.
+Selamat datang di profil GitHub saya! Saya adalah seorang Full-Stack Developer. Di sini, Anda akan menemukan berbagai proyek dan kontribusi saya dalam dunia pemrograman.
 
 ## Tentang Saya
 
