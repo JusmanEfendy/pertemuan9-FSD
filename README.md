@@ -1,10 +1,10 @@
-# Halo, Saya [Jussman Effendy] 👋
+# Halo, Saya Jussman Effendy 👋
 
 Selamat datang di profil GitHub saya! Saya adalah seorang Full-Stack Developer. Di sini, Anda akan menemukan berbagai proyek dan kontribusi saya dalam dunia pemrograman.
 
 ## Tentang Saya
 
-- 🌱 Saya saat ini sedang belajar [GITHUB].
+- 🌱 Saya saat ini sedang belajar GITHUB.
 - 📫 Anda dapat menghubungi saya melalui [njhussrhiee0206@gmail.com].
 
 
@@ -21,7 +21,7 @@ Anda dapat menghubungi saya melalui:
 
 - Email: [njhussrhiee0206@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/jusman-effendy-a8777b234/]
-- Instagram: [jussy_ez]
+- Instagram: [https://www.instagram.com/jussy_ez/]
 
 ## Terima kasih telah mengunjungi profil saya! 😄
 
