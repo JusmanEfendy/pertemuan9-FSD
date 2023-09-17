@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Anda] 👋
+# Halo, Saya [Jussman Effendy] 👋
 
 Selamat datang di profil GitHub saya! Saya adalah seorang [profesi atau minat Anda] dengan minat dalam [topik atau teknologi tertentu]. Di sini, Anda akan menemukan berbagai proyek dan kontribusi saya dalam dunia pemrograman.
 
@@ -20,8 +20,8 @@ Saya juga berkontribusi pada proyek open source. Beberapa kontribusi terbaru say
 Anda dapat menghubungi saya melalui:
 
 - Email: [njhussrhiee0206@gmail.com]
-- LinkedIn: [Jusman Effendy]
-- Instagram: [Jussy_ez]
+- LinkedIn: [https://www.linkedin.com/in/jusman-effendy-a8777b234/]
+- Instagram: [jussy_ez]
 
 ## Terima kasih telah mengunjungi profil saya! 😄
 
